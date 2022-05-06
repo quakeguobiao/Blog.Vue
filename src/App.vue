@@ -17,7 +17,7 @@
                 <span>登录</span>
               </a>
               <a
-                href="https://ids.neters.club/account/register"
+                href="http://ids.banlantech.com/account/register"
                 target="_blank"
                 class="header-container-userinfo-login header-container-user-btn header-container-hv header-container-user-size"
                 role="button"
@@ -28,7 +28,7 @@
             </template>
             <template v-else>
               <a
-                href="https://ids.neters.club/"
+                href="http://ids.banlantech.com/"
                 class="header-container-banner-item-btn"
               >{{ sysUserName }}</a>
               <a
@@ -48,7 +48,7 @@
                 <a class="header-container-banner-item-btn" href="/">首页</a>
                 <a
                   class="header-container-banner-item-btn"
-                  href="http://vueadmin.neters.club/"
+                  href="http://testadmin.banlantech.com/"
                   target="_blank"
                 >Admin管理后台</a>
               </div>
